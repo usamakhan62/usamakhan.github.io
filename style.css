@@ -1,0 +1,44 @@
+body,html
+{
+	height: 100%;
+	width: 100%;
+	font-family: 'Dosis', sans-serif;
+   background: url(4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1
+{
+	font-size: 3rem;
+	color: #fcfdff
+}
+.buffer
+{
+	height: 0rem;
+}
+hr
+{
+border-width: 3px;
+border-color: #6c757d;
+max-width: 55px;
+}
+
+
+.btn
+{
+	font-weight: 500;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+.btn-secondary:hover
+{
+  border-width: 4px;
+  background-color: black;
+  border-color: white;
+}
+.btn-ot
+{
+	padding: 1rem , 2rem;
+}
